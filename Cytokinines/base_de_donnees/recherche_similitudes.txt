@@ -1,0 +1,8 @@
+la recherche par similitude a été effectuée par :
+
+pubchem
+	pour chaque ligand expérimental : similar structures search
+	onglet similarity (fingerprint Tanimoto-based 2-dimensional similarity search)
+	search all
+	
+	pas structure 3d car on peut y trouver des molécules similaires mais avec des atomes exotiques
